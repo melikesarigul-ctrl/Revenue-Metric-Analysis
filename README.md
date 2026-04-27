@@ -32,6 +32,9 @@ Data analytics project focused on revenue metrics including MRR, churn rate, ARP
 ── SQL
 ── TABLEAU
 ── README.md
+## 📊 Dashboard Preview
+
+![Dashboard]<img width="2478" height="1398" alt="REVENUE ANALYSIS" src="https://github.com/user-attachments/assets/389e379b-b50b-48d6-91aa-3fc0193a1204" />
 
 ## Tableau Dashboard
 - https://www.kisa.link/OErjR
