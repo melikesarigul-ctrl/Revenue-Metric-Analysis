@@ -1,5 +1,5 @@
 # Revenue Metric Analysis (2022)
-Data analytics project focused on revenue metrics including MRR, churn rate, ARPPU, and customer segmentation.
+Data analytics project focused on revenue metrics including MRR (Monthly Recurring Revenue), Churn Rate, ARPPU (Average Revenue Per Paying User), and customer segmentation.
 
 ## Project Overview
 - The dashboard provides actionable insights into revenue trends, churn, and customer segmentation.
