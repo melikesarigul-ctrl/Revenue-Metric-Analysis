@@ -2,7 +2,7 @@
 Data analytics project focused on revenue metrics including MRR (Monthly Recurring Revenue), Churn Rate, ARPPU (Average Revenue Per Paying User), and Customer Status.
 
 ## Project Overview
-- The dashboard provides actionable insights into revenue trends, churn, and customer segmentation.
+- The dashboard provides actionable insights into revenue trends, churn, and customer segmentation. 
 - The dashboard enables quick analysis of revenue performance and customer lifecycle dynamics.
 
 ## Tools Used
